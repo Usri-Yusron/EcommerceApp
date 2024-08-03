@@ -1,9 +1,9 @@
-Pengembangan website Protfolio menggunakan framework laravel.                                                                       |
+Website Ecommerce sederhana yang dibangun menggunakan framework laravel 11.                                                         |
 Fitur utama antara lain:                                                                                                            |
- - Login admin untuk memantau konten utama.                                                                                         |
- - Sweat alert untuk notifikasi yang lebih menarik.                                                                                 |
- - Custome Error Handling Page.                                                                                                     |
- - API email untuk fitur contact.                                                                                                   |
+ - Login authentication untuk admin dan user.                                                                                       |
+ - Email verification saat register.                                                                                                |
+ - Email verification untuk lupa password.                                                                                          |
+ - API pembayaran dengan kartu kredit.                                                                                              |
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
