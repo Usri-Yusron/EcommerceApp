@@ -1,7 +1,9 @@
-Pengembangan website Protfolio menggunakan framework laravel. Fitur utama antara lain: - Login admin untuk memantau konten utama.   |
-Sweat alert untuk notifikasi yang lebih menarik.                                                                                    |
-Custome Error Handling Page.                                                                                                        |
-API email untuk fitur contact.                                                                                                      |
+Pengembangan website Protfolio menggunakan framework laravel.                                                                       |
+Fitur utama antara lain:                                                                                                            |
+ - Login admin untuk memantau konten utama.                                                                                         |
+ - Sweat alert untuk notifikasi yang lebih menarik.                                                                                 |
+ - Custome Error Handling Page.                                                                                                     |
+ - API email untuk fitur contact.                                                                                                   |
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
